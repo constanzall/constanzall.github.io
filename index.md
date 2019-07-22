@@ -5,7 +5,7 @@
 layout: home
 ---
 
-
+<img src="pics/logo.png" alt="alt text" width="30%" height="40%"> 
 
 Hola soy Constanza diseñora de interiores, te invito a ver mi trabajo.
 
