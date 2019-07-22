@@ -5,6 +5,6 @@ permalink: /cv/
 ---
 
 
-Descarga mi CV [aquí](files/cv_constanzalledo.pdf).
+Descarga mi CV [aquí](../files/cv_constanzalledo.pdf).
 
 
